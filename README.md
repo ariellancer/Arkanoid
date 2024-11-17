@@ -9,17 +9,17 @@ Every time the ball hits a block, the block gets eliminated. When there are no m
 To control the ball and prevent it from going out of the screen (and losing the ball), the user moves the paddle at the bottom of the screen with the keyboard's left and right arrows.  
 To pause the game, use 'p'. To continue, use the SPACE key.
 ## Video
-**Click here inage to watch a simulation**  
+**Click on the image to watch a simulation**  
 [![Click here inage to watch a simulation](https://drive.google.com/uc?id=1o74tCmMaXu39jZkR1XYsM54vT7zEUuj9)](https://youtu.be/ZRs-i-LH3bg)
 ## Levels
 There are 4 levels to the game.  
-Level 1:  
+**Level 1:**  
 ![Level 1:](https://drive.google.com/uc?id=1UAoPUZleWiycQaDnUeu2Ovu6f-sM_6ru)  
-Level 2:  
+**Level 2:**  
 ![Level 2:](https://drive.google.com/uc?id=1GE3_lY6ipFcU6tiyUYooLr8WzyCviniz)  
-Level 3:  
+**Level 3:**  
 ![Level 3:](https://drive.google.com/uc?id=1VlVYl2PXROixHkE5GEuc7KHp1ssHEIgc)  
-Level 4:  
+**Level 4:**  
 ![Level 4:](https://drive.google.com/uc?id=1Apc4wq__ZiylPmA1BZ-RZnp7CMHctqSa)  
 
 
