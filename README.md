@@ -10,6 +10,10 @@ To control the ball and prevent it from going out of the screen (and losing the 
 To pause the game, use 'p'. To continue, use the SPACE key.
 ## Video
 [![Click here inage to watch a simulation](https://drive.google.com/file/d/1o74tCmMaXu39jZkR1XYsM54vT7zEUuj9/view?usp=sharing)](https://youtu.be/ZRs-i-LH3bg)
+## Levels
+There are 4 levels to the game.
+Level 1:
+![](https://drive.google.com/file/d/1UAoPUZleWiycQaDnUeu2Ovu6f-sM_6ru/view?usp=drive_link)
 ## Run
 First, clone this repo.  
 To compile the game, use `ant compile`.  
