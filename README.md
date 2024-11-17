@@ -13,7 +13,8 @@ To pause the game, use 'p'. To continue, use the SPACE key.
 ## Levels
 There are 4 levels to the game.
 Level 1:
-![](https://drive.google.com/file/d/1UAoPUZleWiycQaDnUeu2Ovu6f-sM_6ru/view?usp=drive_link)
+![Alt Text](https://drive.google.com/file/d/1UAoPUZleWiycQaDnUeu2Ovu6f-sM_6ru/view?usp=drive_link)
+
 ## Run
 First, clone this repo.  
 To compile the game, use `ant compile`.  
