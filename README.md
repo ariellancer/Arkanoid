@@ -11,9 +11,8 @@ To pause the game, use 'p'. To continue, use the SPACE key.
 ## Video
 [![Click here inage to watch a simulation](https://drive.google.com/file/d/1o74tCmMaXu39jZkR1XYsM54vT7zEUuj9/view?usp=sharing)](https://youtu.be/ZRs-i-LH3bg)
 ## Levels
-There are 4 levels to the game.
-Level 1:
-![Alt Text](https://drive.google.com/file/d/1UAoPUZleWiycQaDnUeu2Ovu6f-sM_6ru/view?usp=drive_link)
+There are 4 levels to the game.  
+![Level 1:](https://drive.google.com/uc?id=1UAoPUZleWiycQaDnUeu2Ovu6f-sM_6ru)
 
 ## Run
 First, clone this repo.  
